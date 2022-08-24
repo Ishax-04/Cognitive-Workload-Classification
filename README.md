@@ -13,4 +13,4 @@ Steps:
 
 #3  Run all the code in the notebook.
 
-#4  Use these normalized features to train different classifiers.
+#4  Use these normalized features to train different classifiers(Classification).
