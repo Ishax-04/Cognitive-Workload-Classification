@@ -7,10 +7,10 @@ Machine learning algorithms can be trained by the extracted features.
 
 Steps:
 
-Download the Cognitive-Mental-workload-EEG-Data, import.
+#1  Download the Cognitive-Mental-workload-EEG-Data, import.
 
-Perform pre - processing on data and extract the features.
+#2  Perform pre - processing on data and extract the features.
 
-Run all the code in the notebook.
+#3  Run all the code in the notebook.
 
-Use these normalized features to train differnt classifiers.
+#4  Use these normalized features to train differnt classifiers.
